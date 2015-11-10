@@ -1,0 +1,13 @@
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:124: warning: no previous prototype for 'AIRRec_Open'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:161: warning: no previous prototype for 'AIRRec_Close'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c: In function 'StartAIRLink':
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:201: warning: implicit declaration of function 'PutHexData'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c: In function 'AIRTsk':
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:287: warning: passing argument 2 of 'uart2_getString' from incompatible pointer type
+../../../Include/Drv/Driver_Sys/UART.h:275: note: expected 'CHAR *' but argument is of type 'UINT32 *'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c: At top level:
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:924: warning: no previous prototype for 'PutHexData'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:924: warning: conflicting types for 'PutHexData'
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:201: note: previous implicit declaration of 'PutHexData' was here
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c: In function 'StartAIRLink':
+f:/德才_FHD6600/SDK_1022_2014_FHD5900_wifi_322/DrvExt/DrvExt_src/GPS/GPS.c:202: warning: control reaches end of non-void function
